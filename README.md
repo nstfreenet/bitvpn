@@ -5,7 +5,7 @@ Nuyul BitVPN via Termux
 ```
 apt update && apt upgrade
 pkg install python2 git
-git clone https://github.com/ZXRID/bitvpn
+git clone https://github.com/nstfreenet/bitvpn
 cd bitvpn
 python2 run.py
 ```
